@@ -7,8 +7,11 @@
 //
 
 import UIKit
+import Feature
 
 class ViewController: UIViewController {
+    
+    let a = Feature()
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -1,0 +1,12 @@
+PODS:
+  - Feature (0.0.3)
+
+DEPENDENCIES:
+  - Feature (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  Feature: 82dd1cc913151baf9bd37b78faba9426414c5c19
+
+PODFILE CHECKSUM: b111cfd43b789789aca185bae62047e4425bc47e
+
+COCOAPODS: 1.1.0.rc.2
