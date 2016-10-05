@@ -7,7 +7,16 @@
 //
 
 import Foundation
+import Protocol
 
-public class Feature {
-    public let featureName = "Feature Name From Code"
+public class Assets : Feature {
+    
+    public init(){
+    }
+
+    public func create() -> Feature {
+        print("creating... works")
+        return Assets()
+    }
 }
+

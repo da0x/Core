@@ -85,7 +85,9 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/Feature/Feature.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Protocol/Protocol.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "$BUILT_PRODUCTS_DIR/Feature/Feature.framework"
+  install_framework "$BUILT_PRODUCTS_DIR/Protocol/Protocol.framework"
 fi

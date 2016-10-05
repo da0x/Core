@@ -7,7 +7,7 @@ source 'https://github.com/daher-alfawares/Core-Spec.git'
 
 target 'Core' do
 
-  pod 'Feature', '~> 0.0.3'
+  pod 'Feature', '~> 0.0.7'
 
   # Pods for Core
 

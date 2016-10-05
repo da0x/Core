@@ -11,7 +11,7 @@ import Feature
 
 class ViewController: UIViewController {
     
-    let a = Feature()
+    let b = Feature.Assets()
 
     override func viewDidLoad() {
         super.viewDidLoad()
