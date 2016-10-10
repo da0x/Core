@@ -1,0 +1,29 @@
+{
+  "name": "Feature",
+  "version": "0.0.7",
+  "summary": "Feature is good.",
+  "description": "Test feature that is distributed as a pod.",
+  "homepage": "https://github.com/daher-alfawares/Core-Feature",
+  "license": {
+    "type": "Apache 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daher Alfawares": "daher.alfawares@live.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/daher-alfawares/Core-Feature.git",
+    "tag": "0.0.7"
+  },
+  "source_files": "Feature/**/*.{swift}",
+  "exclude_files": "Classes/Exclude",
+  "resources": "Feature/*.{png,jpeg,jpg,storyboard,xib}",
+  "dependencies": {
+    "Protocol": [
+      "~> 0.0.5"
+    ]
+  }
+}

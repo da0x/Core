@@ -1,0 +1,29 @@
+{
+  "name": "BlueFeature",
+  "version": "0.0.2",
+  "summary": "BlueFeature is good.",
+  "description": "Test feature that is distributed as a pod.",
+  "homepage": "https://github.com/daher-alfawares/core-blue-feature",
+  "license": {
+    "type": "Apache 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daher Alfawares": "daher.alfawares@live.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/daher-alfawares/core-blue-feature.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "BlueFeature/**/*.{swift}",
+  "exclude_files": "Classes/Exclude",
+  "resources": "BlueFeature/*.{png,jpeg,jpg,storyboard,xib}",
+  "dependencies": {
+    "Protocol": [
+      "~> 0.0.5"
+    ]
+  }
+}

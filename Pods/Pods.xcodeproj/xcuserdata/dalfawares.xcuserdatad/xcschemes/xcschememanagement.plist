@@ -4,7 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>BlueFeature.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Feature.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>GreenFeature.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -27,12 +37,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>1E6436229396F8B9D397A058933D8217</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2C7C49F8E52FE9F5134D531F7DBD3EDC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>992AB9C9E4F6AA8E6BA03CEC45AEB9C0</key>
+		<key>396BB0F77B1BCC5D95EDE7F2D3974AC7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -42,7 +57,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C3C202E49B86A4A341172BE5D923191C</key>
+		<key>E8003CD30758DD581A8441683CEF3FB2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAE6106AE2DA549E38168C4655681BBE</key>
 		<dict>
 			<key>primary</key>
 			<true/>

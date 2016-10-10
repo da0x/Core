@@ -1,15 +1,23 @@
 PODS:
+  - BlueFeature (0.0.3):
+    - Protocol (~> 0.0.5)
   - Feature (0.0.7):
+    - Protocol (~> 0.0.5)
+  - GreenFeature (0.0.2):
     - Protocol (~> 0.0.5)
   - Protocol (0.0.5)
 
 DEPENDENCIES:
+  - BlueFeature (~> 0.0.3)
   - Feature (~> 0.0.7)
+  - GreenFeature (~> 0.0.2)
 
 SPEC CHECKSUMS:
+  BlueFeature: 1d1ce14ce92b6df507787949c4cb871b04911635
   Feature: fe04666081ed3742e2fc49e3869219e41cc7e262
+  GreenFeature: 26e9f1b6f665e1117dee706a96314fe653837d61
   Protocol: 2f7c8339535f622e3402510ff889dbba781a31d9
 
-PODFILE CHECKSUM: 2e97668074227a94b9a608b7df391be728e47553
+PODFILE CHECKSUM: 4fa2a011951187428a1f8f4acc67fcedcc1f1140
 
 COCOAPODS: 1.1.0.rc.2

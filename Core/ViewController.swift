@@ -7,11 +7,13 @@
 //
 
 import UIKit
-import Feature
+import BlueFeature
+import GreenFeature
 
 class ViewController: UIViewController {
     
-    let b = Feature.Assets()
+    let a = Green()
+    let b = Blue()
 
     override func viewDidLoad() {
         super.viewDidLoad()

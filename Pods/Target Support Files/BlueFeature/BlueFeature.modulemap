@@ -1,0 +1,6 @@
+framework module BlueFeature {
+  umbrella header "BlueFeature-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DE57C10C7B93F7E5CF385FEBD1F6DE07FAF5D936",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DE57C10C7B93F7E5CF385FEBD1F6DE07FAF5D936" : 9223372036854775807,
+    "C8F45A7A7B6D4222EE70B58BC9243B0F34BC0E49" : 9223372036854775807,
+    "3EAAFC5CB457EFF30ED00E21AB9B8B91B33C6B3E" : 9223372036854775807,
+    "E7875F6282DD9CC3818286BD39B4CDF9217B1163" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E5272718-CEFA-42BE-847D-E08941437ABD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DE57C10C7B93F7E5CF385FEBD1F6DE07FAF5D936" : "Core\/",
+    "C8F45A7A7B6D4222EE70B58BC9243B0F34BC0E49" : "feature\/",
+    "3EAAFC5CB457EFF30ED00E21AB9B8B91B33C6B3E" : "BlueFeature\/",
+    "E7875F6282DD9CC3818286BD39B4CDF9217B1163" : "GreenFeature\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Core",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Core.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daher-alfawares\/core-blue-feature.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3EAAFC5CB457EFF30ED00E21AB9B8B91B33C6B3E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daher-alfawares\/Sandbox-Feature.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C8F45A7A7B6D4222EE70B58BC9243B0F34BC0E49"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daher-alfawares\/Core.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE57C10C7B93F7E5CF385FEBD1F6DE07FAF5D936"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daher-alfawares\/core-green-feature.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E7875F6282DD9CC3818286BD39B4CDF9217B1163"
+    }
+  ]
+}

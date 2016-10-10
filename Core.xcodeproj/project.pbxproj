@@ -489,7 +489,7 @@
 				DEVELOPMENT_TEAM = NF856H64DK;
 				INFOPLIST_FILE = Core/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Solstice.Core;
+				PRODUCT_BUNDLE_IDENTIFIER = Daher.Core;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -503,7 +503,7 @@
 				DEVELOPMENT_TEAM = NF856H64DK;
 				INFOPLIST_FILE = Core/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Solstice.Core;
+				PRODUCT_BUNDLE_IDENTIFIER = Daher.Core;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};

@@ -1,0 +1,29 @@
+{
+  "name": "GreenFeature",
+  "version": "0.0.1",
+  "summary": "Feature is good.",
+  "description": "Test feature that is distributed as a pod.",
+  "homepage": "https://github.com/daher-alfawares/core-green-feature",
+  "license": {
+    "type": "Apache 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daher Alfawares": "daher.alfawares@live.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/daher-alfawares/core-green-feature.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "GreenFeature/**/*.{swift}",
+  "exclude_files": "Classes/Exclude",
+  "resources": "GreenFeature/*.{png,jpeg,jpg,storyboard,xib}",
+  "dependencies": {
+    "Protocol": [
+      "~> 0.0.5"
+    ]
+  }
+}
